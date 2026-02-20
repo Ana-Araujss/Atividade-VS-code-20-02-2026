@@ -1,0 +1,7 @@
+passos para sincronizar arquivos do VS Code em repositórios no GitHub
+1 - Instalar GitHub para desktop
+2 - Criar um arquivo de texto no VS Code
+3 - Salvar o arquivo criado em uma pasta
+4 - Criar um repositório no GitHub 
+5 - Acessar o repositório criado no GitHub desktop
+6 - Fazer o upload do arquivo do VS Code
